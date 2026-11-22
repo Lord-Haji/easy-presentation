@@ -1,0 +1,30 @@
+{
+  "name": "easy-presentation",
+  "id": "easy-presentation",
+  "owner": {
+    "name": "Lord-Haji"
+  },
+  "metadata": {
+    "description": "Agent skill for clean slides and natural human presentation scripts with academic rigor.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "easy-presentation",
+      "source": "./",
+      "description": "Clean slides (Steve Jobs), natural spoken pacing (Will Stephen, minus hype), and strict academic rigor.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Lord-Haji"
+      },
+      "keywords": [
+        "presentations",
+        "slides",
+        "speaking",
+        "academic",
+        "scripts"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

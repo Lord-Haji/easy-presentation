@@ -1,0 +1,20 @@
+{
+  "name": "easy-presentation",
+  "description": "Design clean, focused presentation slides and natural spoken scripts combining Steve Jobs' clarity, Will Stephen's delivery mechanics, and strict academic rigor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lord-Haji"
+  },
+  "license": "MIT",
+  "keywords": [
+    "presentations",
+    "slides",
+    "public-speaking",
+    "academic",
+    "scripts",
+    "skills"
+  ],
+  "skills": [
+    "./skills/easy-presentation"
+  ]
+}
