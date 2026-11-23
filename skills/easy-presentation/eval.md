@@ -3,6 +3,8 @@
 Run this checklist before finalizing any slide deck or spoken script.
 
 ## Slide Checks
+- [ ] **30-second minimum per content slide:** Does every content slide earn at least 30 seconds of speaking time? If not, merge or cut it.
+- [ ] **Calm, plain titles:** Are titles understated, clear, and free of internal rubric labels (`"Option B:"`, `"RQ2:"`) or hype words?
 - [ ] **One idea per slide:** Can each slide be summarized in one short headline?
 - [ ] **4-second scan:** Does every content slide stay around 25–45 words (excluding chart labels)?
 - [ ] **Zero stats soup on slides:** Are dense tables, confidence intervals, and Greek letters kept in the paper/appendix rather than dumped on a 30-second slide?

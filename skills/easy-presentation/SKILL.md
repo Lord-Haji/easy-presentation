@@ -11,7 +11,8 @@ Build talks that sound like a clear, grounded human speaking to a room, not an e
 
 ## 1. Slide Design (Steve Jobs' Clarity)
 
-- **One idea per slide.** Every slide answers one question. Split slides that try to make two unrelated points.
+- **One idea per slide, and at least 30 seconds per content slide.** Every content slide must carry enough substance for **30+ seconds** of speaking. If a slide takes under 30 seconds, merge it with an adjacent slide or delete it (e.g., a 3-minute talk needs Title + 5 content slides, not 8–10 choppy slides).
+- **Calm, understated slide titles and copy.** Keep slide text matter-of-fact and conversational. Avoid dramatic hype words and never put internal rubric labels (like `"Option B:"` or `"RQ2:"`) in slide titles.
 - **Cut clutter ruthlessly.** Keep content slides to **25–45 words** (excluding chart labels). Slides are visual anchors for the speaker, not a teleprompter or mini-paper.
 - **One core message**, introduced in the first 30 seconds and echoed through the middle and ending.
 - **Story-like flow:** Connect **Opening Hook -> Problem -> Method -> Key Findings -> Practical Impact**.
